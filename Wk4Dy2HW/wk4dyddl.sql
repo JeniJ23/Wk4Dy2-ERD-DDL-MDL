@@ -1,0 +1,3 @@
+CREATE TABLE
+    customer_id SERIAL PRIMARY KEY,
+    
